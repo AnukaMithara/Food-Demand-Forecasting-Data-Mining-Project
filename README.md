@@ -20,5 +20,7 @@ This repository contains our solutions and code for the Food Demand Forecasting 
 
 ## Evaluation Metric:
 
-The competition's evaluation metric is RMSLE (Root of Mean Squared Logarithmic Error). The test data is split into Public (30%) and Private (70%) sets for evaluation.
+The competition's evaluation metric is RMSLE (Root of Mean Squared Logarithmic Error).
 
+## Collaborators:
+  - [Sachira](https://github.com/Sachira-Heshan)
