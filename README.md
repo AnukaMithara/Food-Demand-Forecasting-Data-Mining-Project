@@ -2,6 +2,9 @@
 
 This repository contains our solutions and code for the Food Demand Forecasting Challenge on Analytics Vidhya. The challenge involves predicting the demand for a meal delivery company's fulfillment centers based on historical data, meal information, and fulfillment center details. The goal is to forecast demand accurately to optimize stock planning and staffing.
 
+## Collaborators:
+  - [Sachira](https://github.com/Sachira-Heshan)
+
 ## Key Components:
 
 - **Data Preprocessing:**
@@ -22,5 +25,8 @@ This repository contains our solutions and code for the Food Demand Forecasting 
 
 The competition's evaluation metric is RMSLE (Root of Mean Squared Logarithmic Error).
 
-## Collaborators:
-  - [Sachira](https://github.com/Sachira-Heshan)
+## Model performances:
+![image](https://github.com/AnukaMithara/Food-Demand-Forecasting-Data-Mining-Project/assets/48363103/39a96316-60b3-4790-b6d5-db5fd0412007)
+
+
+
